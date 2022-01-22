@@ -100,7 +100,7 @@
     "locale2": "^2.3.1",
     "lzma-native": "^4.0.5",
     "make-dir": "^3.0.0",
-    "nanoid": "^2.0.3",
+    "nanoid": "^3.1.31",
     "node-forge": "^0.8.5",
     "normalize-newline": "^3.0.0",
     "path-exists": "^4.0.0",
